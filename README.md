@@ -1,6 +1,6 @@
 # Bootique demo application
 
-This is demo for blog post: [Bootique: a Minimally Opinionated Platform for Modern Java Apps](Bootique: a Minimally Opinionated Platform for Modern Java Apps)
+This is demo for blog post: [Bootique: a Minimally Opinionated Platform for Modern Java Apps](https://medium.com/@andrus_a/bootique-a-minimally-opinionated-platform-for-modern-java-apps-644194c23872#.fc3bz6308)
 
 You can import project run samples into IDE, or use command line:
 
