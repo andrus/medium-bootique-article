@@ -6,7 +6,7 @@ You can import project run samples into IDE, or use command line:
 
 ```bash
 # build project
-maven clean package
+mvn clean package
 
 # run
 java -jar target/bootique-demo-0.20.jar
